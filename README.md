@@ -1,10 +1,5 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# 3D MODELS
 
-```
-yarn
-yarn dev
-```
+![home-1](/src/assets/hero-1.png)
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![home-2](/src/assets/hero-2.png)
